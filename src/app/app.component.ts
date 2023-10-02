@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
 })
 export class AppComponent {
 
-  public title:string = 'H-Mall';
+  public title:string = 'MPPE Administrador';
 
   constructor(private router: Router) {
     
